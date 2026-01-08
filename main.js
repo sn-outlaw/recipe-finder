@@ -74,3 +74,4 @@ searchInput.addEventListener("input", () => {
 displayRecipes(recipes);
 
 
+
