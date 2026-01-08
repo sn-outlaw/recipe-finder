@@ -1,7 +1,7 @@
 const recipes = [
     {
         name: "Jollof Rice",
-        image: "images/Jollof.jpg",
+        image: "images/jollof.jpg",
         ingredients: ["Rice", "Tomatoes", "Onion", "Pepper", "Oil", "Salt"],
         result: "A spicy and tasty West African rice dish."
     },
@@ -72,4 +72,5 @@ searchInput.addEventListener("input", () => {
 });
 
 displayRecipes(recipes);
+
 
